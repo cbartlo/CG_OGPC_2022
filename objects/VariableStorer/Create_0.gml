@@ -1,0 +1,1 @@
+slime_exhaustion_level=0

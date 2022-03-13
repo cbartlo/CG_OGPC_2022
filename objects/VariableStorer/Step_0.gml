@@ -1,0 +1,1 @@
+if (instance_exists(Ocam)) slime_exhaustion_level=Ocam.power_left

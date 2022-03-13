@@ -1,0 +1,1 @@
+audio_play_sound(Peaceful,1,infinity)
