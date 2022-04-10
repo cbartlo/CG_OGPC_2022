@@ -8,3 +8,7 @@ jump_current    = 0;
 
 CanMelee=true
 MeleeDelay=0
+
+canE=false
+canV=false
+canQ=false
