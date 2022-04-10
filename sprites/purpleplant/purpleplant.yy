@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"purpleplant","path":"sprites/purpleplant/purpleplant.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "purpleplant",
     "tags": [],
     "resourceType": "GMSequence",

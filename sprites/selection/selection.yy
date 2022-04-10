@@ -143,7 +143,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"selection","path":"sprites/selection/selection.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "selection",
     "tags": [],
     "resourceType": "GMSequence",

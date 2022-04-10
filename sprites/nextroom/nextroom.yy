@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"nextroom","path":"sprites/nextroom/nextroom.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "nextroom",
     "tags": [],
     "resourceType": "GMSequence",

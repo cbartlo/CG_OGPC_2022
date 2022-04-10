@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"lazer","path":"sprites/lazer/lazer.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "lazer",
     "tags": [],
     "resourceType": "GMSequence",

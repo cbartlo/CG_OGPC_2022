@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"dirtwithgrass","path":"sprites/dirtwithgrass/dirtwithgrass.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "dirtwithgrass",
     "tags": [],
     "resourceType": "GMSequence",

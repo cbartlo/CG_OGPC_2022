@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"greenplant","path":"sprites/greenplant/greenplant.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "greenplant",
     "tags": [],
     "resourceType": "GMSequence",

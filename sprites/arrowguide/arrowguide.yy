@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"arrowguide","path":"sprites/arrowguide/arrowguide.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "arrowguide",
     "tags": [],
     "resourceType": "GMSequence",

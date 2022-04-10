@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"lodgehouse","path":"sprites/lodgehouse/lodgehouse.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "lodgehouse",
     "tags": [],
     "resourceType": "GMSequence",

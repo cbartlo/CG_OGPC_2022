@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"attack3","path":"sprites/attack3/attack3.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "attack3",
     "tags": [],
     "resourceType": "GMSequence",

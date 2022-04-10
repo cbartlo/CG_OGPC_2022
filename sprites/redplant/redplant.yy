@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"redplant","path":"sprites/redplant/redplant.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "redplant",
     "tags": [],
     "resourceType": "GMSequence",

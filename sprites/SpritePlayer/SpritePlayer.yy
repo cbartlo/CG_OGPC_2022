@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"SpritePlayer","path":"sprites/SpritePlayer/SpritePlayer.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "SpritePlayer",
     "tags": [],
     "resourceType": "GMSequence",

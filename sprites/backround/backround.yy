@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"backround","path":"sprites/backround/backround.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "backround",
     "tags": [],
     "resourceType": "GMSequence",

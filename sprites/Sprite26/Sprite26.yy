@@ -87,7 +87,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Sprite26","path":"sprites/Sprite26/Sprite26.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "Sprite26",
     "tags": [],
     "resourceType": "GMSequence",

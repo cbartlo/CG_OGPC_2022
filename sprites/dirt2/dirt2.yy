@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"dirt2","path":"sprites/dirt2/dirt2.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "dirt2",
     "tags": [],
     "resourceType": "GMSequence",
