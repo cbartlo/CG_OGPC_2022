@@ -69,6 +69,7 @@
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},"order":4,},
     {"id":{"name":"ability2","path":"objects/ability2/ability2.yy",},"order":23,},
     {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},"order":16,},
+    {"id":{"name":"Room10","path":"rooms/Room10/Room10.yy",},"order":14,},
     {"id":{"name":"ExhaustionLevelText","path":"fonts/ExhaustionLevelText/ExhaustionLevelText.yy",},"order":1,},
     {"id":{"name":"Swepon","path":"sprites/Swepon/Swepon.yy",},"order":33,},
     {"id":{"name":"Sprite33","path":"sprites/Sprite33/Sprite33.yy",},"order":34,},
@@ -79,7 +80,7 @@
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "defaultScriptType": 1,
+  "isDnDProject": false,
   "isEcma": false,
   "configs": {
     "name": "Default",
@@ -95,6 +96,7 @@
     {"roomId":{"name":"Room6","path":"rooms/Room6/Room6.yy",},},
     {"roomId":{"name":"Room8","path":"rooms/Room8/Room8.yy",},},
     {"roomId":{"name":"Room9","path":"rooms/Room9/Room9.yy",},},
+    {"roomId":{"name":"Room10","path":"rooms/Room10/Room10.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -116,11 +118,11 @@
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
   ],
   "TextureGroups": [
-    {"isScaled":true,"compressFormat":"bz2","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.3.0.624",
+    "IDEVersion": "2022.2.0.614",
   },
   "resourceVersion": "1.5",
   "name": "v13OGPC",
