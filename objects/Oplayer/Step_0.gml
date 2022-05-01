@@ -4,7 +4,12 @@ key_right = keyboard_check(ord("D")) || keyboard_check(vk_right)
 key_jump = keyboard_check_pressed(vk_space) || keyboard_check_pressed(vk_up)
 
 //cauculate movement 
-var move = key_right - key_left;
+if (confusion=false) var move = key_right - key_left;
+if (confusion=true)
+{
+	var move = key_left - key_right
+	instance_create_layer(x,y+20,layer,ConfusionSymbol)
+}
 overridehsp = move * walksp
 hsp = move * walksp;
 vsp = vsp + grv;

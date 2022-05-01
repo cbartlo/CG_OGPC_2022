@@ -15,3 +15,6 @@ camera_y=gui_height-gui_margin-444
 
 if (instance_exists(VariableStorer)) power_left=VariableStorer.slime_exhaustion_level
 else power_left=0
+
+story=true
+story_text=" "

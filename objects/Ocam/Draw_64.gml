@@ -1,4 +1,3 @@
-//newcode
 if (instance_exists(Oplayer))
 {
 	draw_set_font(ExhaustionLevelText)
@@ -36,4 +35,30 @@ if (instance_exists(Oplayer))
 	draw_text(camera_x-offset,camera_y,txt)
 	draw_text(camera_x,camera_y+offset,txt)
 	draw_text(camera_x,camera_y-offset,txt)
+}
+
+if (story=true)
+{
+	draw_set_font(StoryFont)
+	draw_set_halign(fa_right)
+	draw_set_valign(fa_bottom)
+	
+	var offset=2
+	var txt=string(story_text)+"  ";
+	
+	draw_set_color(c_black)
+	draw_text(display_get_gui_width()+(offset+6),display_get_gui_height(),txt)
+	draw_text(display_get_gui_width()-(offset+6),display_get_gui_height(),txt)
+	draw_text(display_get_gui_width(),display_get_gui_height()+(offset+6),txt)
+	draw_text(display_get_gui_width(),display_get_gui_height()-(offset+6),txt)
+	
+	draw_text(display_get_gui_width()+(offset+7),display_get_gui_height(),txt)
+	draw_text(display_get_gui_width()-(offset+7),display_get_gui_height(),txt)
+	draw_text(display_get_gui_width(),display_get_gui_height()+(offset+7),txt)
+	draw_text(display_get_gui_width(),display_get_gui_height()-(offset+7),txt)
+	draw_set_color(c_yellow)
+	draw_text(display_get_gui_width()+offset,display_get_gui_height(),txt)
+	draw_text(display_get_gui_width()-offset,display_get_gui_height(),txt)
+	draw_text(display_get_gui_width(),display_get_gui_height()+offset,txt)
+	draw_text(display_get_gui_width(),display_get_gui_height()-offset,txt)
 }

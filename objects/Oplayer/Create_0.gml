@@ -12,3 +12,7 @@ MeleeDelay=0
 canE=false
 canV=false
 canQ=false
+
+confusion=false
+
+
