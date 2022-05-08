@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 63,
-  "bbox_top": 0,
-  "bbox_bottom": 63,
+  "bbox_left": 3,
+  "bbox_right": 51,
+  "bbox_top": 11,
+  "bbox_bottom": 51,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"8d15668c-a929-4dcc-b2f5-efffd7fe9e8e","path":"sprites/gasses/gasses.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8d15668c-a929-4dcc-b2f5-efffd7fe9e8e","path":"sprites/gasses/gasses.yy",},"LayerId":{"name":"22a13791-74eb-433a-9556-a1338368cf8a","path":"sprites/gasses/gasses.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"gasses","path":"sprites/gasses/gasses.yy",},"resourceVersion":"1.0","name":"8d15668c-a929-4dcc-b2f5-efffd7fe9e8e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"28733754-f04f-4659-959c-23a421ff8465","path":"sprites/gasses/gasses.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"28733754-f04f-4659-959c-23a421ff8465","path":"sprites/gasses/gasses.yy",},"LayerId":{"name":"73b149f0-83e1-492a-9f4c-4d2a3a2b6a7a","path":"sprites/gasses/gasses.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"gasses","path":"sprites/gasses/gasses.yy",},"resourceVersion":"1.0","name":"28733754-f04f-4659-959c-23a421ff8465","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"gasses","path":"sprites/gasses/gasses.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"3c0392c2-68d8-429b-b9e5-b33351b420d8","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8d15668c-a929-4dcc-b2f5-efffd7fe9e8e","path":"sprites/gasses/gasses.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"935c626c-5358-478d-ba92-72b51a5b4200","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"28733754-f04f-4659-959c-23a421ff8465","path":"sprites/gasses/gasses.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"22a13791-74eb-433a-9556-a1338368cf8a","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"73b149f0-83e1-492a-9f4c-4d2a3a2b6a7a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

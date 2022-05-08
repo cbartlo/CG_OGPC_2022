@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"EnergyRechargePlant","path":"objects/EnergyRechargePlant/EnergyRechargePlant.yy",},"order":31,},
     {"id":{"name":"backround","path":"sprites/backround/backround.yy",},"order":8,},
+    {"id":{"name":"gassesO","path":"objects/gassesO/gassesO.yy",},"order":37,},
     {"id":{"name":"greenplant","path":"sprites/greenplant/greenplant.yy",},"order":11,},
     {"id":{"name":"OMenu","path":"objects/OMenu/OMenu.yy",},"order":26,},
     {"id":{"name":"spikes","path":"objects/spikes/spikes.yy",},"order":25,},

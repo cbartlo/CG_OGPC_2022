@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "boss",
-    "path": "sprites/boss/boss.yy",
+    "name": "gasses",
+    "path": "sprites/gasses/gasses.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,8 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"enemy","path":"objects/enemy/enemy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":32,"eventType":9,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Oplayer","path":"objects/Oplayer/Oplayer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "bosso",
+  "name": "gassesO",
   "tags": [],
   "resourceType": "GMObject",
 }
