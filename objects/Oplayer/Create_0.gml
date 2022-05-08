@@ -15,4 +15,4 @@ canQ=false
 
 confusion=false
 
-
+canmove=true
