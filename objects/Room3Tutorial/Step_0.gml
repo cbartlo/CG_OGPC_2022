@@ -14,4 +14,4 @@ if (mouse_check_button_pressed(mb_left)) && (swap==2) && (buffer_switch=false)
 }
 if (swap==3) story_text="When SLIME EXHAUSTION LEVEL reaches 100, (press to continue)"
 if (mouse_check_button_pressed(mb_left)) && (swap==3) && (buffer_switch=false) swap=4
-if (swap==4) story_text="Slimey, the Slime can no longer throw bloblets."
+if (swap==4) story_text="Slimey, the Slime gets too exhausted to throw bloblets."

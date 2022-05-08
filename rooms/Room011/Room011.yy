@@ -20,9 +20,7 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"Object19","path":"objects/Object19/Object19.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.0,"scaleY":3.16949153,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1280.0,"y":640.0,"resourceVersion":"1.0","name":"inst_1F8A29DA_1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Ocam","path":"objects/Ocam/Ocam.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":640.0,"y":672.0,"resourceVersion":"1.0","name":"inst_554DCB57_1","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"Ocam","path":"objects/Ocam/Ocam.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":640.0,"y":672.0,"resourceVersion":"1.0","name":"inst_38D56608_1","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"Ocam","path":"objects/Ocam/Ocam.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":640.0,"y":672.0,"resourceVersion":"1.0","name":"inst_5B087A59_1","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"EnergyRechargePlant","path":"objects/EnergyRechargePlant/EnergyRechargePlant.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":672.0,"resourceVersion":"1.0","name":"inst_6C5559FC_1","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Room0Story","path":"objects/Room0Story/Room0Story.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":576.0,"resourceVersion":"1.0","name":"inst_37CDBCE2","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances_2","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"Object18","path":"objects/Object18/Object18.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":5.5,"scaleY":5.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":475.0,"resourceVersion":"1.0","name":"inst_60EA7735_1","tags":[],"resourceType":"GMRInstance",},
@@ -170,8 +168,6 @@
     {"name":"inst_11B5D605_1","path":"rooms/Room011/Room011.yy",},
     {"name":"inst_1F8A29DA_1","path":"rooms/Room011/Room011.yy",},
     {"name":"inst_554DCB57_1","path":"rooms/Room011/Room011.yy",},
-    {"name":"inst_38D56608_1","path":"rooms/Room011/Room011.yy",},
-    {"name":"inst_5B087A59_1","path":"rooms/Room011/Room011.yy",},
     {"name":"inst_60EA7735_1","path":"rooms/Room011/Room011.yy",},
     {"name":"inst_F9679BE_1","path":"rooms/Room011/Room011.yy",},
     {"name":"inst_762A831B_1","path":"rooms/Room011/Room011.yy",},
@@ -186,7 +182,7 @@
     {"name":"inst_1D26212C_1","path":"rooms/Room011/Room011.yy",},
     {"name":"inst_4A557ED5_1","path":"rooms/Room011/Room011.yy",},
     {"name":"inst_3DABE680_1","path":"rooms/Room011/Room011.yy",},
-    {"name":"inst_6C5559FC_1","path":"rooms/Room011/Room011.yy",},
+    {"name":"inst_37CDBCE2","path":"rooms/Room011/Room011.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
