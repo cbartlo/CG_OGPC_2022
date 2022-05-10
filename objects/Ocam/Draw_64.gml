@@ -1,4 +1,4 @@
-if (instance_exists(Oplayer))
+if (instance_exists(Oplayer)) && (!instance_exists(Slime))
 {
 	draw_set_font(ExhaustionLevelText)
 	draw_set_halign(fa_right)

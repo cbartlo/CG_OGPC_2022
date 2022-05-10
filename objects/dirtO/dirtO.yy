@@ -3,7 +3,7 @@
     "name": "dirt",
     "path": "sprites/dirt/dirt.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": false,
   "spriteMaskId": null,
   "persistent": false,

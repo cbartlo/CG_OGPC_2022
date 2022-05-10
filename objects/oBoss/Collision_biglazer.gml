@@ -1,1 +1,1 @@
-hp -= 1
+if (other.bounces>=5) hp -= 1
