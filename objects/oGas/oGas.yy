@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "lazer",
-    "path": "sprites/lazer/lazer.yy",
+    "name": "sGas",
+    "path": "sprites/sGas/sGas.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,9 +21,9 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"enemy","path":"objects/enemy/enemy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Oplayer","path":"objects/Oplayer/Oplayer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oBoss","path":"objects/oBoss/oBoss.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"OWall","path":"objects/OWall/OWall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,7 +32,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "biglazer",
+  "name": "oGas",
   "tags": [],
   "resourceType": "GMObject",
 }

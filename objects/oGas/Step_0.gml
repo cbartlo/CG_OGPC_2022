@@ -1,0 +1,1 @@
+speed=oBoss.attackmovespeed
