@@ -3,11 +3,17 @@ if (move_timer<=0)
 	if (numberofattacks<maximumattacks)
 	{
 		instance_create_layer(random_range(65,1050),random_range(95,600),"EnemyAttacks",oGas)
+		if (numberofattacks<=2)
+		{
+					instance_create_layer(random_range(65,1050),random_range(95,600),"EnemyAttacks",oGas)
+					instance_create_layer(random_range(65,1050),random_range(95,600),"EnemyAttacks",oGas)
+		}
 		with (oGas)
 		{
 			direction = point_direction(x,y,Oplayer.x-20,Oplayer.y+20)
 		}
 	}
+	else numberofattacks += 1
 	move_timer=300
 }
 else move_timer -= 1

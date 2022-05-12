@@ -6,3 +6,4 @@ if (attackdelay<=0) && (numberofattacks<maximumattacks)
 		}
 	attackdelay=20
 }
+else if (attackdelay<=0) attackmovespeed += 0.1
