@@ -47,4 +47,23 @@ if (hp <= 0) instance_destroy();
 
 
 
-
+//animate
+if (hsp!=0)
+{
+	if (animationdelay==0) && (sprite_index==spritemushroomenemybasic)
+	{
+		sprite_index=spritemushroomenemybasic2
+		animationdelay=40
+	}
+	if (animationdelay==0) && (sprite_index==spritemushroomenemybasic2)
+	{
+		sprite_index=spritemushroomenemybasic3
+		animationdelay=40
+	}
+	if (animationdelay==0) && (sprite_index==spritemushroomenemybasic3)
+	{
+		sprite_index=spritemushroomenemybasic
+		animationdelay=40
+	}
+	animationdelay -= 1
+}

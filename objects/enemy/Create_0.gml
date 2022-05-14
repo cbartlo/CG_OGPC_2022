@@ -6,3 +6,4 @@ hp = 4;
 move=-1
 airborne=false
 
+animationdelay=40

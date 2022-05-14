@@ -1,11 +1,14 @@
 {
   "spriteId": {
-    "name": "Sprite4",
-    "path": "sprites/Sprite4/Sprite4.yy",
+    "name": "spritemushroomenemybasic",
+    "path": "sprites/spritemushroomenemybasic/spritemushroomenemybasic.yy",
   },
   "solid": true,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spritemushroomenemybasic",
+    "path": "sprites/spritemushroomenemybasic/spritemushroomenemybasic.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
